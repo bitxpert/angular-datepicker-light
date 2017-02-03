@@ -1,3 +1,5 @@
+(modified for personal use, not checked for independent use)
+
 # AngularJS datepicker plugin
 
 `npm install angular-datepicker-light`
