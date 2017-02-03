@@ -1,8 +1,8 @@
 {
   "name": "angular-datepicker-light-umer",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "AngularJS datepicker plugin-umer",
-  "main": ["angular-datepicker-light.js", "./stylesheets/angular-datepicker-light.css"],
+  "main": ["angular-datepicker-light.js", "./stylesheets/angular-datepicker-light.css", "./stylesheets/images/chevron-left.png", "./stylesheets/images/chevron-right.png"],
   "homepage": "http://www.vickram.me/angular-datepicker-light-plugin/",
   "authors": [
     "Vickram Ravichandran (http://vickram.me)"
